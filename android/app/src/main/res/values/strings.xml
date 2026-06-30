@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Chat Tech</string>
+    <string name="title_activity_main">Chat Tech</string>
+    <string name="package_name">com.chattech.app</string>
+    <string name="custom_url_scheme">com.chattech.app</string>
+</resources>
